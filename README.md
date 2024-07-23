@@ -40,14 +40,14 @@ Hi everyone! I'm Nahuen, I written code for many years, so I have some crazy stu
   <a href="https://stackoverflow.com/users/4138246" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </div>
 
-<h2 align="center">📊 GitHub Stats </h2>
+<h2 align="center">📊 GitHub Public Stats </h2>
 <div align="center">
   <img alt="" src="https://github-readme-stats.vercel.app/api?username=NahuenL&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
   <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=NahuenL&theme=tokyonight&hide_border=false">
   <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuenL&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
-<h2 align="center">🏆 GitHub Trophies </h2>
+<h2 align="center">🏆 GitHub Public Trophies </h2>
 <div align="center">
   <img alt="" src="https://github-profile-trophy.vercel.app/?username=NahuenL&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4">
 </div>
