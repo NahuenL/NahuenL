@@ -24,6 +24,9 @@ Hi everyone! I'm Nahuen, I written code from about 10 years now, so I have some 
 <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+
+<img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonwebservices&labelColor=232F3E">
+<img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-232F3E?logo=amazons3&labelColor=569A31">
 </div>
 
 
