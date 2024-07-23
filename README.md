@@ -28,6 +28,7 @@ Hi everyone! I'm Nahuen, I written code from about 10 years now, so I have some 
 <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-232F3E?logo=amazons3&labelColor=569A31&logoColor=white">
 <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon_EC2-232F3E?logo=amazonec2&labelColor=FF9900&logoColor=white">
 <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon_RDS-232F3E?logo=amazonrds&labelColor=527FFF&logoColor=white">
+<img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-8473ff?style=flat&logo=phpstorm&logoColor=000000">
 </div>
 
 
