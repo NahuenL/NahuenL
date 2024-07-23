@@ -1,4 +1,18 @@
-## Hello World👋
+## Hello World👋, I'm Nahuen
+<div align="center"> 
+  <div align="right"> 
+    <img alt="stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/4138246?style=flat&logo=stackoverflow&label=stackoverflow">
+    <img alt="Visitas" src="https://visitcount.itsvg.in/api?id=NahuenL&icon=2&color=13" style="max-heigth:20px !important">
+  </div>
+  <img src="https://github.com/NahuenL/NahuenL/blob/main/Nahuen_Background_v2.png?raw=true" style="width:100%" >
+  <img alt="Static Badge" src="https://img.shields.io/badge/Age-32-white">
+
+  <img alt="Spanish" src="https://img.shields.io/badge/Languages-5c5b5a?style=flat-square">
+  <img alt="Spanish" src="https://img.shields.io/badge/Spanish-red?style=flat-square">
+  <img alt="Portuguese" src="https://img.shields.io/badge/Portuguese-569A31?style=flat-square">
+  <img alt="English" src="https://img.shields.io/badge/English-blue?style=flat-square">
+
+</div>
 
 
 ## About me
@@ -53,8 +67,5 @@ Hi everyone! I'm Nahuen, I written code for many years, so I have some crazy stu
 </div>
 
 
-
-<img alt="stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/4138246?style=flat&logo=stackoverflow&label=stackoverflow">
-<img alt="Visitas" src="https://visitcount.itsvg.in/api?id=NahuenL&icon=2&color=13">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
