@@ -3,6 +3,7 @@
 
 ## About me
 Hi everyone! I'm Nahuen, I written code for many years, so I have some crazy stuff over there. I'm Software Engenieer from Chile, but born in Brasil so yep I do sepeak portuguesse as well. I'm also a 3D printing entusiast, and a huge fan of pixel art and manga.
+<br><br>
 <img alt="Telegram BOT" src="https://img.shields.io/stackexchange/stackoverflow/r/4138246?style=flat&logo=stackoverflow&label=stackoverflow">
 
 <h2 align="center">Technologies and Languages </h2>
