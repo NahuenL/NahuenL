@@ -31,7 +31,7 @@ Hi everyone! I'm Nahuen, I written code for many years, so I have some crazy stu
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
   <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white">
-  <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white">
+  <!--<img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white">-->
   <img alt="Steam" src="https://img.shields.io/badge/React-000000?style=flat&logo=React&logoColor=61DAFB">
   <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white">
   <img alt="Spicetify" src="https://img.shields.io/badge/Spicetify-1DB954?style=flat&logo=spotify&logoColor=white">
