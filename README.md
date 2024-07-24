@@ -22,7 +22,7 @@ Hi everyone! I'm Nahuen, I written code for many years, so I have some crazy stu
 <div align="center"> <!--https://simpleicons.org/-->
   <img alt="Telegram BOT" src="https://img.shields.io/badge/Telegram_BOT-26A5E4?style=flat&logo=telegram&logoColor=white">
   <img alt="Hik-Vision" src="https://img.shields.io/badge/Hik-Vision-gray?labelColor=red">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white&logoSize=auto">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logoColor=white">
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white">
