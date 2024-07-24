@@ -33,17 +33,28 @@ Hi everyone! I'm Nahuen, I written code for many years, so I have some crazy stu
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
   <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white">
   <!--<img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white">-->
-  <img alt="Steam" src="https://img.shields.io/badge/React-000000?style=flat&logo=React&logoColor=61DAFB">
+  <img alt="React" src="https://img.shields.io/badge/React-000000?style=flat&logo=React&logoColor=61DAFB">
   <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white">
   <img alt="Spicetify" src="https://img.shields.io/badge/Spicetify-1DB954?style=flat&logo=spotify&logoColor=white">
   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonwebservices&labelColor=232F3E">
   <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-232F3E?logo=amazons3&labelColor=569A31&logoColor=white">
   <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon_EC2-232F3E?logo=amazonec2&labelColor=FF9900&logoColor=white">
   <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon_RDS-232F3E?logo=amazonrds&labelColor=527FFF&logoColor=white">
   <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-8473ff?style=flat&logo=phpstorm&logoColor=000000">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+  <img alt="Filezilla" src="https://img.shields.io/badge/Filezilla-BF0000?logo=filezilla&logoColor=white">
+  <img alt="FontAwesome" src="https://img.shields.io/badge/Font_Awesome-538DD7?logo=fontawesome&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  <img alt="MediaFire" src="https://img.shields.io/badge/MediaFire-1299F3?logo=mediafire&logoColor=white">
+  <img alt="Plex" src="https://img.shields.io/badge/Media_Server-EBAF00?logo=plex&logoColor=white&logoSize=auto&labelColor=black">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+  <!--<img alt="SSSSSS" src="">
+  <img alt="SSSSSS" src="">-->
 </div>
 
 
