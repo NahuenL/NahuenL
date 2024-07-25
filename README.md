@@ -58,7 +58,7 @@ Hi everyone! I'm Nahuen, I written code for many years, so I have some crazy stu
 </div>
 
 
-<h2 align="center">🌐 Socials </h2><!--https://shields.io/badges/static-badge -> https://gprm.itsvg.in/-->
+<h2 align="center">🌐 Socials </h2><!--https://shields.io/badges/static-badge - https://gprm.itsvg.in/-->
 <div align="center">
   <a href="https://facebook.com/nahuenl" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
   <a href="https://instagram.com/nahuenl" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
