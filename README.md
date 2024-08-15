@@ -54,7 +54,7 @@ Hi everyone! I'm Nahuen, I written code for many years, so I have some crazy stu
   <img alt="MediaFire" src="https://img.shields.io/badge/MediaFire-1299F3?logo=mediafire&logoColor=white">
   <img alt="Plex" src="https://img.shields.io/badge/Media_Server-EBAF00?logo=plex&logoColor=white&logoSize=auto&labelColor=black">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-  <!--<img alt="SSSSSS" src="">
+  <!--<img alt="SSSSS" src="">
   <img alt="SSSSSS" src="">-->
 </div>
 
