@@ -7,7 +7,6 @@
   </div>
   <img src="https://github.com/NahuenL/NahuenL/blob/main/Nahuen_Background_v2.png?raw=true" style="width:100%" >
   <img alt="Static Badge" src="https://img.shields.io/badge/Age-32-white">
-
   <img alt="Spanish" src="https://img.shields.io/badge/Languages-5c5b5a?style=flat-square">
   <img alt="Spanish" src="https://img.shields.io/badge/Spanish-red?style=flat-square">
   <img alt="Portuguese" src="https://img.shields.io/badge/Portuguese-569A31?style=flat-square">
