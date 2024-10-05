@@ -2,7 +2,7 @@
 
 <div align="center">
   <div align="right"> 
-    <img alt="stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/4138246?style=flat&logo=stackoverflow&label=stackoverflow">
+    <a href="https://stackoverflow.com/users/4138246" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/4138246?style=flat&logo=stackoverflow&label=stackoverflow"></a>
     <img alt="Visitas" src="https://visitcount.itsvg.in/api?id=NahuenL&icon=2&color=13" style="max-heigth:20px !important">
   </div>
   <img src="https://github.com/NahuenL/NahuenL/blob/main/Nahuen_Background_v2.png?raw=true" style="width:100%" >
@@ -58,7 +58,7 @@ Hi everyone! I'm Nahuen, I written code for many years, so I have some crazy stu
 </div>
 
 
-<h2 align="center">🌐 Socials </h2><!--https://shields.io/badges/static-badge - https://gprm.itsvg.in/-->
+<h2 align="center"> Socials </h2><!--https://shields.io/badges/static-badge - https://gprm.itsvg.in/-->
 <div align="center">
   <a href="https://facebook.com/nahuenl" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
   <a href="https://instagram.com/nahuenl" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
@@ -66,14 +66,14 @@ Hi everyone! I'm Nahuen, I written code for many years, so I have some crazy stu
   <a href="https://stackoverflow.com/users/4138246" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </div>
 
-<h2 align="center">📊 GitHub Public Stats </h2>
+<h2 align="center"> GitHub Public Stats </h2>
 <div align="center">
   <img alt="" src="https://github-readme-stats.vercel.app/api?username=NahuenL&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
   <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=NahuenL&theme=tokyonight&hide_border=false">
   <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuenL&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
-<h2 align="center">🏆 GitHub Public Trophies </h2>
+<h2 align="center"> GitHub Public Trophies </h2>
 <div align="center">
   <img alt="" src="https://github-profile-trophy.vercel.app/?username=NahuenL&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4">
 </div>
