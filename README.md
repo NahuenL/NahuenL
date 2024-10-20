@@ -11,7 +11,6 @@
   <img alt="Spanish" src="https://img.shields.io/badge/Spanish-red?style=flat-square">
   <img alt="Portuguese" src="https://img.shields.io/badge/Portuguese-569A31?style=flat-square">
   <img alt="English" src="https://img.shields.io/badge/English-blue?style=flat-square">
-
 </div>
 
 
